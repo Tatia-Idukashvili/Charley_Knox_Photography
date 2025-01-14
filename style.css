@@ -487,6 +487,7 @@ textarea {
     }
     #np{
         margin-left: 165px;
+        margin-top: 0px;
     }
     /* Fashion Page */
     .p-p1{
@@ -519,9 +520,9 @@ textarea {
         padding: 50px;
     }
     .clients{
-        height: 530px;
+        height: 510px;
         flex-direction: column;
-        margin-top: 20px;
+        margin-top: 30px;
     }    
     .clients-text h1{
         font-size: 40px;
@@ -538,7 +539,7 @@ textarea {
     }
     .clients-text{
         height: 280px;
-        gap: 80px;
+        gap: 50px;
         padding: 0px 0px;
         text-align: center;
     }
