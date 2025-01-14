@@ -439,11 +439,11 @@ textarea {
     }
     .recent-works {
         flex-direction: column;
-        padding: 0px 40px;
     }
     .recent-works a {
         width: 380px; 
         height: 480px; 
+        padding: 0px 40px;
     }
     /* Portraits Page */ 
     .portraits-page{
