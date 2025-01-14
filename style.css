@@ -408,7 +408,7 @@ textarea {
     /* Home Page */
     header {
         height: 80px;
-        gap: 120px;
+        gap: 100px;
     }    
     .links {
         display: none; 
