@@ -4,7 +4,7 @@ Charley Knox Photography website template is a modern and simple front-end proje
 
 ### Features
 • Home Page: A welcoming homepage introducing Charley Knox Photography. <br>
-• Portfolio Page: A gallery featuring three categories—Portraits, Places, and Fashion. Each category has its own dedicated page displaying photos<br> from the photographer's collection. <br>
+• Portfolio Page: A gallery featuring three categories—Portraits, Places, and Fashion. Each category has its own dedicated page displaying photos from the photographer's collection. <br>
 • About Page: A page detailing the photographer's background, vision, and approach to photography. <br>
 • Contact Page: Includes the photographer's contact information and a non-functional contact form. <br>
 • Responsive Design: Fully responsive design that adapts seamlessly to various screen sizes for an optimal user experience. <br>
