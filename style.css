@@ -433,12 +433,10 @@ textarea {
     /* Portfolio Page */
     .portfolio-background {
         height: 1800px;
+        padding: 0px 20px;
     }
     .portfolio-background h1{
         font-size: 30px;
-    }
-    .portfolio-content{
-        padding: 0px 30px;
     }
     .recent-works {
         flex-direction: column;
