@@ -441,8 +441,8 @@ textarea {
         flex-direction: column;
     }
     .recent-works a {
-        width: 350px; 
-        height: 450px; 
+        width: 320px; 
+        height: 460px; 
     }
     /* Portraits Page */ 
     .portraits-page{
