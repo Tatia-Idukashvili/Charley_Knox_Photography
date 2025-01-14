@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charley Knox Photography Website Template</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    
+    <header>
+        <div class="logo">
+            <a href="./index.html">CKP</a>
+        </div>    
+        <div id="myNav" class="overlay">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fa-solid fa-x"></i></a>
+            <div class="overlay-content">
+                <a href="./portfolio.html">Portfolio</a>
+                <a href="./about.html">About</a>
+                <a href="./contact.html">Contact</a>
+            </div>
+        </div>
+        <nav>
+            <div class="links">
+                <a href="./portfolio.html">Portfolio</a>
+                <a href="./about.html">About</a>
+                <a href="./contact.html">Contact</a>    
+            </div>
+
+            <div class="socials">
+                <a href="https://www.facebook.com/wix" target="_blank" class="socials"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/wix/" target="_blank" class="socials"><i class="fa-brands fa-instagram"></i></a>    
+            </div>
+            <div class="burger-menu">
+                <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+            </div>
+        </nav>
+    </header>
+
+    <main class="contact">
+        <div class="contact-info">
+            <div class="ci">
+                <h1>Contact</h1>
+
+                <p>Charley Knox Is Represented <br>
+                by United Creatives</p>
+    
+                <p>Email: info@mysite.com <br>
+                Phone: 123-456-7890</p>    
+            </div>
+        </div>
+        <div class="contact-forms">
+            <div>
+                <div class="ft1">
+                    <div class="in">
+                        <label for="first_name">First name*</label>
+                        <input type="text" id="first_name">    
+                    </div>
+    
+                    <div class="in">
+                        <label for="last-name">Last name*</label>
+                        <input type="text" id="last-name">    
+                    </div>
+                </div>
+                <div class="ft">
+                    <div class="in">
+                        <label for="email">Email*</label>
+                        <input type="text" id="email">  
+                    </div>
+    
+                    <div class="in">
+                        <label for="phone">Phone*</label>
+                        <input type="number" id="phone">    
+                    </div>
+                </div>
+                <div class="in">
+                    <label for="message">Leave us a message...</label>
+                    <textarea name="" id="message"></textarea>
+    
+                    <a href="#"><button>Submit</button></a>
+                </div>    
+            </div>
+        </div>
+    </main>
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-angles-up"></i></button>
+
+    <script src="./Javascript Files/scroll_to_top_btn.js"></script>
+    <script src="./Javascript Files/active_page.js"></script>
+    <script src="./Javascript Files/responsive_header.js"></script>
+</body>
+</html>
