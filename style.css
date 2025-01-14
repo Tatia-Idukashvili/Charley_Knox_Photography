@@ -437,13 +437,15 @@ textarea {
     .portfolio-background h1{
         font-size: 30px;
     }
+    .portfolio-content{
+        padding: 0px 30px;
+    }
     .recent-works {
         flex-direction: column;
     }
     .recent-works a {
         width: 380px; 
         height: 480px; 
-        padding: 0px 40px;
     }
     /* Portraits Page */ 
     .portraits-page{
