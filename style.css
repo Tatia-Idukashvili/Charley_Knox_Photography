@@ -498,7 +498,7 @@ textarea {
     }
     /* About Page */
     .about{
-        height: 1530px;
+        height: 1600px;
     }
     .biography{
         height: 1000px;
@@ -520,7 +520,7 @@ textarea {
         padding: 50px;
     }
     .clients{
-        height: 504px;
+        height: 530px;
         flex-direction: column;
     }    
     .clients-text h1{
