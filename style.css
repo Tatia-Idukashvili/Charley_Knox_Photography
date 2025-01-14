@@ -477,7 +477,7 @@ textarea {
     }    
     /* Places Page */
     .places-page{
-        height: 2500px;
+        height: 2200px;
     }
     #p5{
         margin-top: 0px;
@@ -491,7 +491,7 @@ textarea {
     }
     /* Fashion Page */
     .p-p1{
-        height: 3200px;
+        height: 3000px;
     }
     #f5{
         margin-top: -0px;
@@ -522,6 +522,7 @@ textarea {
     .clients{
         height: 530px;
         flex-direction: column;
+        margin-top: 20px;
     }    
     .clients-text h1{
         font-size: 40px;
