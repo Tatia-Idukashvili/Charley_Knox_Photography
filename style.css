@@ -476,14 +476,14 @@ textarea {
     }    
     /* Places Page */
     .places-page{
-        height: 2300px;
+        height: 2200px;
     }
     #p5{
         margin-top: 0px;
     }
     .arrows{
         padding: 0px 40px;
-        height: 120px;
+        height: 80px;
     }
     #np{
         margin-left: 165px;
