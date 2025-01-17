@@ -472,7 +472,7 @@ textarea {
     .portraits-page a{
         text-align: left;
         padding-left: 0px;
-        /* margin-top: 50px; */
+        margin-top: 50px;
     }    
     /* Places Page */
     .places-page{
@@ -482,11 +482,11 @@ textarea {
         margin-top: 0px;
     }
     .arrows{
-        padding: 0px 40px;
+        padding: 0px 20px;
         height: 50px;
     }
     #np{
-        margin-left: 165px;
+        margin-left: 150px;
         margin-top: 0px;
     }
     /* Fashion Page */
