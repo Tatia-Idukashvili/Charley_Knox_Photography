@@ -247,15 +247,18 @@ nav a.active {
 }
 .arrows{
     height: 70px;
-    padding: 0px 65px;
+    padding: 0px 70px;
     background-color: black;
 }
 .arrows a{
     text-decoration: none;
     color: white;
 }
+.arrows i{
+    font-size: 40px;
+}
 #np{
-    margin-left: 1115px;
+    margin-left: 1285px;
 }
 /* Fashion Page */
 .p-p1{
@@ -482,16 +485,14 @@ textarea {
         margin-top: 0px;
     }
     .arrows{
-        padding: 0px 20px;
+        padding: 0px 30px;
         height: 50px;
     }
-    #np{
-        margin-left: 150px;
-        margin-top: 0px;
+    .arrows i{
+        font-size: 25px;
     }
-    #prp{
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 18px;
+    #np{
+        margin-left: 375px;
     }
     /* Fashion Page */
     .p-p1{
