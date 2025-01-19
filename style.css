@@ -228,7 +228,7 @@ nav a.active {
     color: white;
     display: block; 
     text-align: right;
-    font-size: 18px;
+    font-size: 30px;
     padding-right: 25px;
     margin-top: -40px;
 }
@@ -246,19 +246,16 @@ nav a.active {
     margin-top: -500px;
 }
 .arrows{
-    height: 70px;
-    padding: 0px 70px;
+    height: 80px;
+    padding: 0px 90px;
+    display: flex;
+    justify-content: space-between;
     background-color: black;
 }
 .arrows a{
     text-decoration: none;
     color: white;
-}
-.arrows i{
-    font-size: 27px;
-}
-#np{
-    margin-left: 1280px;
+    font-size: 30px;
 }
 /* Fashion Page */
 .p-p1{
@@ -266,9 +263,6 @@ nav a.active {
 }
 #f5{
     margin-top: -150px;
-}
-.arrows a{
-    font-size: 20px;
 }
 /* About Page */
 .about{
@@ -482,20 +476,18 @@ textarea {
     }    
     /* Places Page */
     .places-page{
-        height: 2250px;
+        height: 2200px;
     }
     #p5{
         margin-top: 0px;
     }
     .arrows{
-        padding: 0px 30px;
-        height: 50px;
-    }
-    .arrows i{
-        font-size: 25px;
+        padding: 0px 40px;
+        height: 120px;
     }
     #np{
-        margin-left: 375px;
+        margin-left: 165px;
+        margin-top: 0px;
     }
     /* Fashion Page */
     .p-p1{
