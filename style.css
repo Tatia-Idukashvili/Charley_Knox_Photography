@@ -255,10 +255,10 @@ nav a.active {
     color: white;
 }
 .arrows i{
-    font-size: 40px;
+    font-size: 27px;
 }
 #np{
-    margin-left: 550px;
+    margin-left: 1280px;
 }
 /* Fashion Page */
 .p-p1{
@@ -266,6 +266,9 @@ nav a.active {
 }
 #f5{
     margin-top: -150px;
+}
+.arrows a{
+    font-size: 20px;
 }
 /* About Page */
 .about{
